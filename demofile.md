@@ -2,4 +2,4 @@
 
 ### Subtitle
 
-This is *bold*
+This is **bold**
